@@ -1,0 +1,24 @@
+1. For neutral words such as the, class, and teacher, there is apparently no difference between the two genders. For "loaded" words (thick normative terms), some positive words such as funny, genius, brilliant favor men, meanwhile some negative words such as rude, unfair favor women. For example (approximately):
+	- genius: Men [72, 15, 12], Women [11, 8, 0]
+	- rude: Men [30, 50, 270], Women [35, 75, 466]
+	- funny: Men [1101, 300, 80], Women [640, 70, 30]
+
+2. 
+a. The stats produced in Milestone 1 don't suggest any bias between the two genders at all (Women: 58%, Men: 59%).
+b. Bias to men: funny, genius, brilliant
+   Bias to women: rude, unfair
+
+3.
+Terms embedded normative values (presenting reviewers' opinions) would be unfair for a university to use as a factor in decisions to hire, tenure, or fire professors.
+
+4.
+The programmer should split data into descriptive and normative terms and only descriptive terms are taken into account to evaluate a professor. Normative terms should only be treated as additional references and are not fed into the algorithm at all.
+
+5.
+Students who are not interested in the subject are possible not make reviews. Additionally, the minority of reviews against the major opinions are often overlooked. For example, the majority of the class doesn't like the professor might be because the professor's teaching style is not suitable for them, not because of the incompetence. However, the system might evaluate the professors based only on the majority vote.
+
+6.
+Add more categories to fit all the people and make a simple changes to the language used in SETs can make a positive impact in the assessments of the professors. The language helps students aware of their unconscious and unintentional biases about the race and gender of the instructor.
+
+7.
+Professor evaluation: Use descriptive terms to evaluate professors' competence. However, we should analyze the normative terms to find out the patterns in the data, so that each student can make a better decision before the semester, and choose a professor that is suitable for them, not a professor that is highly competent but not suitable. Both professors and students benefit from this system.

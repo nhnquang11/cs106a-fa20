@@ -1,0 +1,2 @@
+a. Idealization: No wind, air resistance, "appropriate" gravity as the sands falling faster through time. We simplified them by moving one equal step at a time when doing the gravity.
+b. Computer scientists should keep in mind the tradeoffs between the complexity of the program and the computational limitations of the hardware. The programmers should explicitly explain the idealizations being made to others. Therefore, the others could evaluate the program and use it appropriately.

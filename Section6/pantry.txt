@@ -1,0 +1,4 @@
+flour:: 400
+sugar:: 300
+salt:: 10
+chocolate:: 150

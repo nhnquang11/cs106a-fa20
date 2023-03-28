@@ -1,0 +1,1296 @@
+Leonida, 11:30, CoHo
+Natalya, 10:00, CoHo
+Vashti, 8:00, Mausoleum
+Nathanial, 11:00, Roble Arts Gym
+Alexis, 7:00, Ricker
+Noelle, 9:30, Lathrop
+Salvador, 10:00, Law School Terrace
+Elnora, 12:00, Hoover Tower
+Mariko, 9:30, Roble Arts Gym
+Brahm, 12:00, Cantor
+Malcom, 11:30, MemAud
+Bobbye, 12:00, Roble Arts Gym
+Barabara, 11:30, Lake Lag
+Barabara, 10:00, Munger
+Garrett, 9:30, MemChu
+Kenyatta, 11:00, Munger
+Vashti, 10:30, Lake Lag
+Wade, 12:30, Bing Nursery
+Nakia, 11:30, Munger
+Malcom, 8:30, Munger
+Lean, 10:00, Mausoleum
+Cecily, 10:00, The Dish
+Malcom, 7:00, TAP
+Lashay, 8:30, TAP
+Cecily, 9:30, Wilbur
+Shizuko, 12:30, Roble Arts Gym
+Misty, 11:00, MemChu
+Lashay, 8:00, Munger
+Serina, 11:30, Main Quad
+Eddy, 11:30, MemChu
+Lorriane, 9:00, Lathrop
+Jesusa, 9:30, The Dish
+Deidre, 11:00, The Dish
+Blondell, 12:30, MemChu
+Bernardina, 12:30, Bing Nursery
+Esmeralda, 8:00, CoHo
+Lou, 11:00, Roble Arts Gym
+Yuonne, 11:30, Gates
+Jayson, 9:00, Roble Arts Gym
+Bobbye, 11:00, MemChu
+Forest, 9:00, Mausoleum
+Malcom, 11:00, Bing Nursery
+Russell, 8:00, Mausoleum
+Nakia, 12:30, Main Quad
+Devora, 8:30, Bing Nursery
+Sheilah, 11:30, Main Quad
+Pia, 10:30, Bing Nursery
+Kai, 9:00, Green Library
+Serina, 7:30, CoHo
+Tori, 10:00, Law School Terrace
+Woodrow, 11:30, Law School Terrace
+Kaci, 8:00, Tressider
+Hayley, 11:30, Hoover Tower
+Lorriane, 9:30, MemAud
+Lana, 7:00, Main Quad
+Sebrina, 12:30, Cantor
+Henry, 7:00, Ricker
+Selene, 7:30, MemAud
+Deidre, 8:30, Lake Lag
+Pia, 11:00, The Dish
+Tambra, 10:30, The Dish
+Carry, 7:00, Roble Arts Gym
+Etta, 10:30, MemAud
+Lia, 12:30, Law School Terrace
+Malissa, 10:30, Roble Arts Gym
+Shizuko, 12:00, CoHo
+Misty, 9:00, Green Library
+Jesusa, 9:00, Hoover Tower
+Kenyatta, 12:00, Tressider
+Brahm, 10:00, Cantor
+Elnora, 8:00, Green Library
+Alexis, 7:30, Ricker
+Lia, 11:00, Tressider
+Serina, 9:30, Wilbur
+Garrett, 11:30, Main Quad
+Particia, 10:00, Hoover Tower
+Hayley, 8:00, Hoover Tower
+Elena, 12:00, Green Library
+Tambra, 12:00, Gates
+Chris, 8:00, Hoover Tower
+Leanna, 11:30, The Dish
+Latrisha, 12:00, The Dish
+Jesusa, 8:30, Cantor
+Latoya, 10:00, Green Library
+Ulrike, 10:30, Tressider
+Deidre, 10:30, Mausoleum
+Latrisha, 9:00, Mausoleum
+Esmeralda, 9:00, Hoover Tower
+Wade, 10:30, Bing Nursery
+Lia, 8:30, The Dish
+Sebrina, 7:30, TAP
+Esmeralda, 10:00, Bing Nursery
+Malcom, 10:00, TAP
+Juliette, 9:00, Wilbur
+Ina, 10:00, Mausoleum
+Devora, 11:30, Law School Terrace
+Chuck, 11:00, TAP
+Henry, 7:30, Lake Lag
+Nakia, 8:30, The Dish
+Will, 8:00, The Dish
+Peter, 11:00, MemChu
+Johnny, 7:00, MemAud
+Kara, 8:00, Gates
+Devora, 7:30, Gates
+Deidre, 11:30, Main Quad
+Lou, 10:00, Tressider
+Lilia, 9:00, Bing Nursery
+Nathanial, 12:00, Bing Nursery
+Esmeralda, 7:00, Lathrop
+Etta, 10:00, Roble Arts Gym
+Birgit, 7:00, Lathrop
+Kara, 12:00, Hoover Tower
+Noelle, 9:00, MemAud
+Eddy, 8:30, Lathrop
+Vashti, 9:00, Gates
+Darlena, 9:30, MemChu
+Eboni, 7:30, Main Quad
+Glennie, 9:00, MemAud
+Chris, 11:30, Bing Nursery
+Leanna, 9:00, Cantor
+Zella, 8:00, MemAud
+Brahm, 9:30, Bing Nursery
+Malissa, 8:30, Hoover Tower
+Stacee, 9:00, CoHo
+Wade, 8:30, Lake Lag
+Malissa, 11:00, Law School Terrace
+Delmy, 12:30, MemAud
+Rosalind, 10:30, Main Quad
+Neva, 11:00, Main Quad
+Misty, 7:30, Mausoleum
+Birgit, 12:30, Main Quad
+Lona, 10:00, Roble Arts Gym
+Nakia, 10:30, Gates
+Devora, 10:30, Law School Terrace
+Eddy, 9:30, Main Quad
+Lorriane, 10:00, Wilbur
+Refugia, 7:30, Roble Arts Gym
+Malissa, 12:00, Munger
+Yuonne, 9:30, Munger
+Carman, 7:30, Green Library
+Lia, 7:00, The Dish
+Blake, 8:30, Hoover Tower
+Carry, 11:30, Lake Lag
+Alexis, 10:30, Hoover Tower
+Tori, 8:00, Mausoleum
+Noelle, 7:30, Lathrop
+Devora, 12:00, Tressider
+Mehran, 8:00, The Dish
+Salvador, 7:00, Bing Nursery
+Mariko, 8:30, Main Quad
+Jolyn, 10:00, Law School Terrace
+Corinne, 7:00, Cantor
+Devora, 11:00, Law School Terrace
+Carry, 12:00, MemChu
+Lou, 8:30, Law School Terrace
+Deidre, 9:00, Cantor
+Babette, 11:30, Lathrop
+Mariko, 12:00, Gates
+Jannie, 12:00, Ricker
+Lashay, 12:30, CoHo
+Abby, 9:30, Hoover Tower
+Buddy, 12:30, Gates
+Leonida, 12:30, Tressider
+Forest, 7:30, Ricker
+Darlena, 8:30, Tressider
+Mehran, 12:00, Lake Lag
+Yuonne, 7:30, Wilbur
+Ulrike, 9:30, Wilbur
+Corinne, 11:00, TAP
+Eboni, 11:00, Wilbur
+Nathanial, 8:30, Gates
+Tambra, 11:30, Gates
+Garrett, 9:00, Law School Terrace
+Natalya, 7:00, Lake Lag
+Selene, 12:00, TAP
+Kathe, 9:00, MemChu
+Monserrate, 8:00, Roble Arts Gym
+Leonida, 8:00, Gates
+Noelle, 10:00, Munger
+Juliette, 11:30, Hoover Tower
+Angelyn, 9:00, TAP
+Elnora, 12:30, Law School Terrace
+Corinne, 12:00, Lathrop
+Bobbye, 11:30, Mausoleum
+Lilia, 7:30, Cantor
+Pia, 9:30, CoHo
+Rosalind, 12:30, Green Library
+Malcom, 12:00, Main Quad
+Natalya, 12:30, MemAud
+Tabitha, 10:30, Green Library
+Mauricio, 12:00, Law School Terrace
+Natalya, 8:30, Hoover Tower
+Ulrike, 11:30, CoHo
+Buford, 7:30, MemAud
+Eddy, 12:30, Roble Arts Gym
+Shizuko, 9:00, Green Library
+Selene, 10:30, CoHo
+Blondell, 11:00, Munger
+Salvador, 9:30, Lathrop
+Elena, 8:30, Munger
+Carman, 8:00, CoHo
+Lacy, 8:30, Mausoleum
+Bernardina, 10:30, Munger
+Jayson, 12:30, Law School Terrace
+Lou, 9:00, MemChu
+Meggan, 8:30, Hoover Tower
+Russell, 9:00, Ricker
+Pia, 7:00, TAP
+Madelyn, 8:30, Ricker
+Kathe, 12:30, Mausoleum
+Tabitha, 7:30, Main Quad
+Lacy, 8:00, The Dish
+Kai, 7:30, Lake Lag
+Tori, 11:30, Mausoleum
+Natalya, 7:30, Law School Terrace
+Deidre, 7:00, Green Library
+Etta, 9:30, Lake Lag
+Chuck, 10:00, Mausoleum
+Leanna, 8:00, Hoover Tower
+Nathanial, 10:00, TAP
+Tori, 12:00, Green Library
+Virgil, 11:00, Bing Nursery
+Etta, 12:00, Gates
+Corinne, 9:30, TAP
+Devora, 7:00, CoHo
+Sebrina, 9:00, Ricker
+Lorriane, 12:30, Cantor
+Alexis, 12:00, Main Quad
+Carry, 11:00, Bing Nursery
+Kylie, 8:30, Bing Nursery
+Virgil, 10:30, Lake Lag
+Eddy, 11:00, Main Quad
+Abby, 10:30, Roble Arts Gym
+Wade, 12:00, Roble Arts Gym
+Selene, 11:30, MemAud
+Devora, 9:30, Roble Arts Gym
+Jannie, 8:00, Green Library
+Lean, 11:30, Tressider
+Juliette, 11:00, Munger
+Tambra, 7:00, MemChu
+Eboni, 12:00, MemChu
+Lashay, 11:30, Roble Arts Gym
+Trinity, 8:30, Green Library
+Lashay, 11:00, Roble Arts Gym
+Abby, 8:30, The Dish
+Will, 11:30, Bing Nursery
+Yuonne, 8:30, Main Quad
+Wade, 9:30, Law School Terrace
+Buford, 12:00, Green Library
+Peter, 8:30, Wilbur
+Serina, 7:00, MemChu
+Etta, 9:00, Lathrop
+Peter, 7:30, Bing Nursery
+Elena, 9:00, Munger
+Stacee, 10:00, Roble Arts Gym
+Tori, 9:30, Green Library
+Rosalind, 11:30, Lathrop
+Wade, 8:00, CoHo
+Caryn, 10:00, Lathrop
+Mauricio, 10:00, Law School Terrace
+Pia, 10:00, Green Library
+Sebrina, 10:00, Ricker
+Will, 12:30, Gates
+Mauricio, 8:30, TAP
+Malissa, 10:00, Green Library
+Kai, 12:30, Lathrop
+Caryn, 7:00, CoHo
+Leonida, 11:00, Tressider
+Birgit, 8:00, Tressider
+Etta, 7:00, Lathrop
+Reita, 9:00, Lathrop
+Kenyatta, 9:30, Law School Terrace
+Forest, 7:00, Bing Nursery
+Lacy, 11:00, Cantor
+Bradley, 7:30, TAP
+Tori, 10:30, Lake Lag
+Selene, 9:30, Law School Terrace
+Mauricio, 7:00, Bing Nursery
+Forest, 11:30, The Dish
+Barabara, 11:00, Lathrop
+Rosalind, 9:00, Munger
+Bradley, 10:30, MemChu
+Shizuko, 11:00, Main Quad
+Kai, 11:00, Lake Lag
+Eboni, 8:00, Mausoleum
+Carry, 8:00, Mausoleum
+Selene, 10:00, Main Quad
+Kylie, 9:30, Cantor
+Particia, 9:00, MemChu
+Parth, 9:00, Cantor
+Lean, 11:00, Cantor
+Jolyn, 11:00, Lathrop
+Hayley, 10:30, Wilbur
+Tambra, 7:30, Green Library
+Leonida, 7:30, MemAud
+Salvador, 12:00, Gates
+Darlena, 9:00, Ricker
+Jayson, 10:30, CoHo
+Esmeralda, 11:30, Law School Terrace
+Garrett, 7:30, Roble Arts Gym
+Sheilah, 9:30, Main Quad
+Blondell, 9:00, MemAud
+Chuck, 11:30, Gates
+Neva, 10:00, Law School Terrace
+Deidre, 9:30, Main Quad
+Henry, 11:00, Bing Nursery
+Delmy, 10:00, Mausoleum
+Yuonne, 12:00, Main Quad
+Noelle, 12:30, The Dish
+Hayley, 9:00, MemChu
+Kathe, 11:00, Green Library
+Delmy, 9:30, Hoover Tower
+Jannie, 10:00, Tressider
+Glennie, 11:30, Main Quad
+Leanna, 12:00, Roble Arts Gym
+Henry, 11:30, Tressider
+Henry, 8:30, Lake Lag
+Latoya, 8:00, Main Quad
+Serina, 12:30, Main Quad
+Russell, 12:00, MemChu
+Sebrina, 11:00, Law School Terrace
+Cecily, 8:00, The Dish
+Jesusa, 11:00, Lake Lag
+Brahm, 11:30, Wilbur
+Peter, 9:30, Tressider
+Sebrina, 10:30, Hoover Tower
+Bernardina, 8:30, The Dish
+Lashay, 9:30, Law School Terrace
+Latrisha, 10:30, Lathrop
+Buddy, 10:30, Lathrop
+Woodrow, 8:00, The Dish
+Sheilah, 9:00, Main Quad
+Lacy, 12:30, Cantor
+Lona, 7:30, Bing Nursery
+Misty, 8:30, Roble Arts Gym
+Barabara, 12:30, MemChu
+Peter, 7:00, Green Library
+Brahm, 9:00, Green Library
+Chuck, 12:30, MemAud
+Stacee, 11:30, Hoover Tower
+Brahm, 7:00, Tressider
+Lou, 12:00, Roble Arts Gym
+Jolie, 10:00, Hoover Tower
+Noelle, 12:00, MemChu
+Forest, 9:30, Lathrop
+Latoya, 9:30, MemChu
+Misty, 11:30, Law School Terrace
+Abby, 12:00, Tressider
+Salvador, 12:30, Tressider
+Carry, 12:30, Roble Arts Gym
+Lilia, 10:00, Bing Nursery
+Parth, 11:00, Green Library
+Neva, 11:30, Law School Terrace
+Buford, 12:30, Lathrop
+Chuck, 8:00, Lathrop
+Peter, 8:00, Green Library
+Roseanna, 11:00, Lake Lag
+Kaci, 8:30, Roble Arts Gym
+Corinne, 11:30, TAP
+Jannie, 11:00, Cantor
+Ina, 7:00, Mausoleum
+Angelyn, 12:30, TAP
+Birgit, 10:00, CoHo
+Eboni, 7:00, CoHo
+Shizuko, 8:30, Tressider
+Babette, 7:00, Mausoleum
+Jolie, 7:30, Gates
+Lashay, 10:30, Gates
+Hayley, 7:30, Main Quad
+Tabitha, 11:30, The Dish
+Mehran, 7:30, Hoover Tower
+Meggan, 11:30, TAP
+Johnny, 12:30, TAP
+Monserrate, 12:30, Lathrop
+Tabitha, 11:00, Wilbur
+Neva, 8:30, Main Quad
+Misty, 10:00, Green Library
+Elnora, 9:00, Mausoleum
+Malcom, 7:30, Ricker
+Reita, 7:00, Hoover Tower
+Kylie, 11:00, Roble Arts Gym
+Carman, 11:00, Gates
+Leanna, 11:00, Gates
+Sylvia, 11:30, Cantor
+Lana, 10:00, Green Library
+Lana, 10:30, Lake Lag
+Peter, 12:30, MemAud
+Buddy, 9:30, Hoover Tower
+Trinity, 9:30, Mausoleum
+Lilia, 11:30, Lake Lag
+Pia, 7:30, Ricker
+Wade, 7:00, TAP
+Natalya, 12:00, Roble Arts Gym
+Roseanna, 10:30, MemChu
+Caryn, 11:00, Main Quad
+Brahm, 8:30, Wilbur
+Marisela, 11:00, Lathrop
+Cecily, 12:30, Gates
+Delmy, 11:00, Bing Nursery
+Stacee, 12:30, Lake Lag
+Shizuko, 11:30, Tressider
+Russell, 10:00, The Dish
+Yuonne, 12:30, Hoover Tower
+Jesusa, 12:00, The Dish
+Jolie, 8:00, Wilbur
+Sebrina, 8:30, Green Library
+Glennie, 12:30, Hoover Tower
+Elena, 10:30, Law School Terrace
+Cecily, 7:00, Green Library
+Salvador, 8:00, Wilbur
+Shizuko, 7:00, Munger
+Bradley, 8:00, Bing Nursery
+Yuonne, 7:00, Green Library
+Kai, 8:30, MemChu
+Juliette, 10:00, Lathrop
+Particia, 7:00, Law School Terrace
+Latrisha, 12:30, Main Quad
+Ina, 8:00, Mausoleum
+Nathanial, 9:00, Hoover Tower
+Kaci, 9:30, Main Quad
+Latrisha, 7:00, TAP
+Mehran, 9:00, Gates
+Tori, 8:30, MemChu
+Esmeralda, 11:00, Tressider
+Salvador, 8:30, MemChu
+Zella, 8:30, The Dish
+Roseanna, 9:00, Bing Nursery
+Reita, 10:00, Wilbur
+Mehran, 9:30, Roble Arts Gym
+Mariko, 11:30, Cantor
+Bobbye, 8:30, Gates
+Madelyn, 7:30, Munger
+Barabara, 7:00, TAP
+Forest, 12:00, Main Quad
+Jesusa, 12:30, The Dish
+Mehran, 7:00, Hoover Tower
+Kenyatta, 9:00, CoHo
+Lilia, 7:00, Main Quad
+Sheilah, 7:00, Lake Lag
+Jolyn, 8:30, Lathrop
+Jayson, 7:00, Green Library
+Reita, 8:30, Munger
+Leanna, 7:30, Main Quad
+Leonida, 9:00, Cantor
+Tabitha, 7:00, Lake Lag
+Ulrike, 11:00, Gates
+Sylvia, 8:00, Lake Lag
+Woodrow, 10:30, MemAud
+Mauricio, 7:30, Cantor
+Chris, 11:00, Lake Lag
+Selene, 12:30, MemAud
+Neva, 7:30, TAP
+Zella, 7:00, Cantor
+Buford, 9:30, Roble Arts Gym
+Latrisha, 8:30, Munger
+Monserrate, 7:30, Law School Terrace
+Lou, 12:30, Lathrop
+Eddy, 12:00, TAP
+Nathanial, 7:00, CoHo
+Bernardina, 12:00, TAP
+Garrett, 12:00, Main Quad
+Lana, 11:00, Bing Nursery
+Jolyn, 10:30, Gates
+Malissa, 7:30, Munger
+Kai, 7:00, MemChu
+Meggan, 11:00, Green Library
+Lona, 11:30, CoHo
+Jayson, 12:00, Gates
+Henry, 12:00, Lathrop
+Latoya, 12:30, Wilbur
+Pia, 11:30, Green Library
+Refugia, 11:30, Mausoleum
+Tori, 7:30, Munger
+Misty, 12:00, Lathrop
+Malcom, 10:30, Roble Arts Gym
+Lana, 11:30, Main Quad
+Birgit, 11:30, Cantor
+Marisela, 7:30, Lathrop
+Mehran, 8:30, Hoover Tower
+Hayley, 7:00, TAP
+Trinity, 9:00, Law School Terrace
+Vashti, 11:30, Mausoleum
+Elena, 12:30, The Dish
+Corinne, 8:30, MemAud
+Eboni, 9:30, Green Library
+Blake, 12:30, Wilbur
+Kylie, 12:30, Main Quad
+Parth, 10:00, Roble Arts Gym
+Jolyn, 7:30, Ricker
+Babette, 10:30, MemAud
+Mehran, 10:00, MemAud
+Malissa, 12:30, Roble Arts Gym
+Virgil, 8:00, Munger
+Kai, 8:00, Main Quad
+Johnny, 9:00, The Dish
+Jayson, 8:00, Hoover Tower
+Buddy, 8:30, Cantor
+Stacee, 12:00, MemChu
+Ina, 11:00, Wilbur
+Serina, 8:30, Ricker
+Lana, 9:30, Lathrop
+Bernardina, 9:00, Wilbur
+Buford, 8:00, Tressider
+Rosalind, 7:00, Law School Terrace
+Angelyn, 7:30, Roble Arts Gym
+Carman, 9:00, Green Library
+Jolyn, 11:30, Lathrop
+Lilia, 9:30, Hoover Tower
+Kaci, 11:30, Lake Lag
+Johnny, 12:00, Roble Arts Gym
+Misty, 8:00, Bing Nursery
+Latoya, 7:30, Lathrop
+Lia, 7:30, Ricker
+Russell, 11:30, MemChu
+Carry, 10:00, Mausoleum
+Birgit, 11:00, CoHo
+Johnny, 7:30, Law School Terrace
+Lilia, 12:30, Main Quad
+Elnora, 9:30, Wilbur
+Abby, 8:00, CoHo
+Lacy, 10:00, Cantor
+Kenyatta, 7:30, Bing Nursery
+Zella, 11:00, Ricker
+Leonida, 7:00, Tressider
+Roseanna, 7:30, MemChu
+Blondell, 10:30, TAP
+Rosalind, 10:00, Cantor
+Jolyn, 7:00, Mausoleum
+Sylvia, 7:30, Green Library
+Marisela, 8:30, Gates
+Blake, 10:30, Roble Arts Gym
+Hayley, 12:00, Gates
+Nathanial, 11:30, Wilbur
+Lacy, 9:00, Mausoleum
+Madelyn, 8:00, Lake Lag
+Marisela, 9:30, MemChu
+Sylvia, 8:30, The Dish
+Lorriane, 7:00, Law School Terrace
+Parth, 7:00, Hoover Tower
+Henry, 9:30, Munger
+Blake, 12:00, Green Library
+Misty, 7:00, Ricker
+Caryn, 12:00, Tressider
+Lana, 7:30, Ricker
+Caryn, 8:30, Mausoleum
+Buddy, 10:00, Munger
+Kenyatta, 11:30, Roble Arts Gym
+Delmy, 11:30, MemAud
+Meggan, 9:00, Cantor
+Henry, 10:00, Wilbur
+Madelyn, 10:00, Green Library
+Kara, 12:30, Mausoleum
+Jannie, 7:00, Main Quad
+Mariko, 10:00, Tressider
+Mehran, 11:00, Cantor
+Brahm, 10:30, Munger
+Kaci, 10:30, The Dish
+Mauricio, 9:00, Bing Nursery
+Refugia, 8:30, Law School Terrace
+Buford, 10:00, Ricker
+Madelyn, 11:30, CoHo
+Kaci, 11:00, Munger
+Jayson, 11:00, Ricker
+Chuck, 8:30, Lathrop
+Buford, 10:30, MemAud
+Lorriane, 8:30, Bing Nursery
+Woodrow, 11:00, The Dish
+Barabara, 9:30, Tressider
+Bradley, 12:00, Munger
+Devora, 8:00, Gates
+Misty, 9:30, Munger
+Forest, 12:30, Lathrop
+Mauricio, 9:30, Gates
+Sheilah, 10:30, MemChu
+Peter, 9:00, Wilbur
+Abby, 11:30, Green Library
+Lana, 8:30, MemAud
+Particia, 12:30, Law School Terrace
+Brahm, 7:30, Green Library
+Birgit, 10:30, Munger
+Delmy, 7:30, The Dish
+Serina, 12:00, Main Quad
+Johnny, 11:00, Bing Nursery
+Malissa, 9:30, Mausoleum
+Zella, 12:30, Wilbur
+Esmeralda, 8:30, The Dish
+Roseanna, 11:30, Cantor
+Bradley, 8:30, Cantor
+Meggan, 10:30, Tressider
+Etta, 8:30, MemChu
+Ina, 10:30, MemChu
+Lashay, 7:00, CoHo
+Tabitha, 10:00, Wilbur
+Kylie, 12:00, Cantor
+Rosalind, 8:30, Mausoleum
+Mauricio, 11:30, MemChu
+Jesusa, 8:00, The Dish
+Chuck, 7:30, Ricker
+Bernardina, 9:30, Green Library
+Lorriane, 11:00, The Dish
+Brahm, 8:00, Roble Arts Gym
+Corinne, 8:00, The Dish
+Bernardina, 11:00, Lathrop
+Lona, 9:00, Gates
+Vashti, 8:30, Main Quad
+Noelle, 8:30, CoHo
+Babette, 10:00, Lake Lag
+Kathe, 12:00, Roble Arts Gym
+Virgil, 7:00, MemChu
+Forest, 10:30, Law School Terrace
+Elnora, 10:30, The Dish
+Madelyn, 9:30, Ricker
+Russell, 11:00, Lathrop
+Sylvia, 10:00, Wilbur
+Chris, 9:30, Mausoleum
+Deidre, 12:00, Lake Lag
+Parth, 12:30, Ricker
+Nathanial, 10:30, Munger
+Salvador, 7:30, Ricker
+Lacy, 9:30, Green Library
+Madelyn, 9:00, Hoover Tower
+Kathe, 8:30, Roble Arts Gym
+Woodrow, 7:30, Law School Terrace
+Particia, 9:30, Main Quad
+Delmy, 12:00, Roble Arts Gym
+Lou, 7:00, MemAud
+Woodrow, 9:00, CoHo
+Refugia, 12:30, Main Quad
+Jesusa, 7:30, MemChu
+Kathe, 11:30, Ricker
+Esmeralda, 10:30, The Dish
+Abby, 7:00, Tressider
+Ina, 12:00, Munger
+Lilia, 10:30, Tressider
+Noelle, 7:00, CoHo
+Alexis, 8:30, Munger
+Roseanna, 8:30, The Dish
+Jolie, 12:30, Wilbur
+Elena, 10:00, MemChu
+Lou, 7:30, Ricker
+Alexis, 9:00, Green Library
+Pia, 8:30, Gates
+Bradley, 12:30, Tressider
+Forest, 11:00, Gates
+Alexis, 11:30, Gates
+Refugia, 11:00, Bing Nursery
+Lia, 10:30, Law School Terrace
+Russell, 12:30, Tressider
+Elnora, 7:00, Mausoleum
+Particia, 11:30, Munger
+Vashti, 11:00, Tressider
+Ulrike, 12:00, Lake Lag
+Blake, 7:30, Hoover Tower
+Eddy, 10:30, Wilbur
+Darlena, 7:00, Bing Nursery
+Jolyn, 9:00, CoHo
+Neva, 7:00, Bing Nursery
+Hayley, 11:00, Main Quad
+Eboni, 11:30, Gates
+Esmeralda, 12:30, Tressider
+Juliette, 12:30, Bing Nursery
+Malissa, 8:00, The Dish
+Meggan, 10:00, Lake Lag
+Jeri, 7:00, TAP
+Jeri, 8:30, MemAud
+Cecily, 9:00, Hoover Tower
+Madelyn, 12:00, MemChu
+Juliette, 7:00, MemAud
+Chris, 10:00, Wilbur
+Bernardina, 8:00, Hoover Tower
+Refugia, 12:00, Gates
+Hayley, 10:00, Bing Nursery
+Caryn, 10:30, Lathrop
+Malissa, 11:30, Law School Terrace
+Peter, 10:30, Gates
+Nakia, 9:00, Ricker
+Yuonne, 8:00, Munger
+Latoya, 11:00, Wilbur
+Carry, 9:00, Wilbur
+Glennie, 7:30, Law School Terrace
+Will, 11:00, Gates
+Monserrate, 11:00, Green Library
+Kara, 11:30, Roble Arts Gym
+Garrett, 8:30, CoHo
+Darlena, 10:30, Gates
+Angelyn, 12:00, MemAud
+Vashti, 9:30, Mausoleum
+Jolie, 8:30, Ricker
+Will, 9:00, Tressider
+Sheilah, 8:30, Gates
+Kai, 10:30, Roble Arts Gym
+Reita, 10:30, Mausoleum
+Jannie, 12:30, Main Quad
+Virgil, 9:00, TAP
+Garrett, 10:00, Law School Terrace
+Glennie, 9:30, Lathrop
+Kara, 7:00, MemAud
+Neva, 9:30, Mausoleum
+Eboni, 12:30, Ricker
+Glennie, 10:30, Hoover Tower
+Leonida, 10:30, The Dish
+Johnny, 10:00, Bing Nursery
+Selene, 8:30, Munger
+Glennie, 10:00, Main Quad
+Kenyatta, 12:30, MemAud
+Kara, 8:30, Wilbur
+Natalya, 11:30, Gates
+Latoya, 8:30, CoHo
+Johnny, 8:30, Main Quad
+Buddy, 12:00, Hoover Tower
+Monserrate, 12:00, Roble Arts Gym
+Babette, 9:00, Mausoleum
+Elnora, 10:00, Roble Arts Gym
+Woodrow, 10:00, Green Library
+Buddy, 9:00, Mausoleum
+Latrisha, 7:30, Law School Terrace
+Buddy, 11:00, Law School Terrace
+Eddy, 9:00, Wilbur
+Sebrina, 8:00, Lake Lag
+Corinne, 12:30, Tressider
+Trinity, 10:00, Tressider
+Esmeralda, 7:30, Lathrop
+Wade, 10:00, Green Library
+Johnny, 8:00, TAP
+Russell, 8:30, Munger
+Darlena, 8:00, Law School Terrace
+Corinne, 9:00, TAP
+Barabara, 10:30, Wilbur
+Refugia, 9:30, Lathrop
+Kathe, 10:00, The Dish
+Trinity, 12:30, Cantor
+Angelyn, 8:30, Wilbur
+Angelyn, 7:00, Roble Arts Gym
+Bobbye, 12:30, Cantor
+Hayley, 12:30, Mausoleum
+Blondell, 9:30, Wilbur
+Woodrow, 8:30, Cantor
+Glennie, 8:30, Tressider
+Birgit, 9:00, MemAud
+Lorriane, 10:30, Tressider
+Mauricio, 8:00, Hoover Tower
+Nakia, 11:00, Wilbur
+Johnny, 10:30, Tressider
+Carman, 8:30, Mausoleum
+Tori, 11:00, Ricker
+Garrett, 10:30, Law School Terrace
+Birgit, 12:00, Ricker
+Chris, 7:00, Bing Nursery
+Mariko, 8:00, Tressider
+Nathanial, 9:30, Lathrop
+Johnny, 11:30, Main Quad
+Trinity, 8:00, Ricker
+Blake, 9:30, The Dish
+Chris, 10:30, Lathrop
+Meggan, 12:30, Bing Nursery
+Stacee, 9:30, Green Library
+Carry, 8:30, Lathrop
+Abby, 9:00, MemChu
+Sheilah, 12:00, Munger
+Meggan, 7:00, Law School Terrace
+Jayson, 8:30, Roble Arts Gym
+Sylvia, 12:30, Roble Arts Gym
+Carry, 9:30, Lathrop
+Lashay, 12:00, Hoover Tower
+Salvador, 11:00, Gates
+Malissa, 7:00, Bing Nursery
+Kaci, 7:00, Wilbur
+Bradley, 10:00, Main Quad
+Marisela, 12:30, CoHo
+Roseanna, 7:00, Tressider
+Sylvia, 7:00, MemAud
+Lia, 11:30, MemAud
+Kylie, 9:00, MemChu
+Jayson, 11:30, The Dish
+Monserrate, 10:30, Lathrop
+Sheilah, 11:00, Mausoleum
+Barabara, 8:30, Roble Arts Gym
+Kaci, 9:00, Lathrop
+Henry, 12:30, Cantor
+Neva, 9:00, The Dish
+Nakia, 9:30, Lake Lag
+Ulrike, 10:00, TAP
+Blake, 10:00, Mausoleum
+Kenyatta, 7:00, Bing Nursery
+Tabitha, 9:00, Cantor
+Mauricio, 12:30, Cantor
+Selene, 11:00, Hoover Tower
+Babette, 8:00, Law School Terrace
+Lou, 8:00, Ricker
+Buford, 11:00, Gates
+Elnora, 7:30, Hoover Tower
+Wade, 7:30, Bing Nursery
+Selene, 7:00, Main Quad
+Serina, 8:00, Law School Terrace
+Juliette, 10:30, Roble Arts Gym
+Will, 7:30, Mausoleum
+Sylvia, 12:00, Green Library
+Alexis, 12:30, MemChu
+Caryn, 12:30, TAP
+Woodrow, 7:00, Wilbur
+Zella, 10:30, Munger
+Eddy, 7:30, Lathrop
+Mehran, 10:30, Gates
+Jolie, 9:30, Lathrop
+Glennie, 12:00, Bing Nursery
+Garrett, 7:00, Main Quad
+Lou, 9:30, Cantor
+Garrett, 8:00, Law School Terrace
+Garrett, 11:00, Cantor
+Darlena, 12:00, Tressider
+Buford, 8:30, Lathrop
+Barabara, 8:00, Wilbur
+Wade, 11:00, CoHo
+Jannie, 8:30, The Dish
+Carman, 7:00, Lake Lag
+Latoya, 11:30, MemChu
+Latoya, 10:30, Cantor
+Lilia, 8:30, Wilbur
+Lilia, 8:00, Cantor
+Corinne, 10:30, Cantor
+Kylie, 10:00, Lake Lag
+Marisela, 7:00, Ricker
+Delmy, 7:00, Main Quad
+Kathe, 10:30, Ricker
+Bobbye, 7:00, The Dish
+Jesusa, 7:00, Hoover Tower
+Lean, 12:00, Wilbur
+Virgil, 12:30, CoHo
+Tambra, 11:00, Mausoleum
+Bobbye, 7:30, Roble Arts Gym
+Zella, 7:30, Green Library
+Ulrike, 8:30, Bing Nursery
+Refugia, 10:00, Cantor
+Ina, 7:30, The Dish
+Vashti, 12:30, The Dish
+Natalya, 9:30, Main Quad
+Serina, 9:00, Cantor
+Jolie, 12:00, Green Library
+Vashti, 12:00, Gates
+Trinity, 11:30, Law School Terrace
+Noelle, 8:00, MemChu
+Woodrow, 9:30, Bing Nursery
+Trinity, 12:00, Green Library
+Refugia, 9:00, Law School Terrace
+Marisela, 11:30, Roble Arts Gym
+Carman, 12:30, Main Quad
+Babette, 11:00, Ricker
+Will, 9:30, Tressider
+Vashti, 10:00, Roble Arts Gym
+Etta, 7:30, TAP
+Malcom, 12:30, Law School Terrace
+Bobbye, 10:00, Green Library
+Ulrike, 7:30, MemAud
+Nakia, 10:00, Bing Nursery
+Bernardina, 11:30, TAP
+Marisela, 12:00, Gates
+Blake, 9:00, Lathrop
+Etta, 11:00, Wilbur
+Devora, 10:00, Wilbur
+Woodrow, 12:00, Lake Lag
+Malcom, 9:00, Green Library
+Latoya, 12:00, Ricker
+Vashti, 7:00, Wilbur
+Madelyn, 12:30, Wilbur
+Kara, 10:30, Bing Nursery
+Alexis, 8:00, Ricker
+Kara, 7:30, Cantor
+Lana, 9:00, Gates
+Tori, 12:30, Cantor
+Angelyn, 10:30, Gates
+Jeri, 11:00, MemChu
+Yuonne, 10:30, Ricker
+Forest, 8:00, Lathrop
+Monserrate, 11:30, Wilbur
+Tabitha, 12:30, Lathrop
+Parth, 11:30, Hoover Tower
+Buford, 11:30, Mausoleum
+Angelyn, 11:00, Lake Lag
+Vashti, 7:30, MemAud
+Woodrow, 12:30, The Dish
+Russell, 7:30, Tressider
+Hayley, 8:30, MemChu
+Darlena, 11:30, Green Library
+Ina, 8:30, Main Quad
+Pia, 8:00, CoHo
+Pia, 12:30, CoHo
+Tori, 9:00, Bing Nursery
+Jolyn, 9:30, Munger
+Jeri, 11:30, MemAud
+Rosalind, 11:00, Green Library
+Jolyn, 8:00, Cantor
+Buddy, 11:30, Lathrop
+Glennie, 11:00, MemAud
+Particia, 10:30, Roble Arts Gym
+Bradley, 11:30, Bing Nursery
+Jeri, 12:30, The Dish
+Lona, 8:00, Green Library
+Lilia, 11:00, Tressider
+Abby, 12:30, Cantor
+Jayson, 9:30, TAP
+Brahm, 11:00, Green Library
+Wade, 11:30, Gates
+Zella, 10:00, Mausoleum
+Carry, 7:30, Munger
+Stacee, 8:00, Tressider
+Noelle, 10:30, Lake Lag
+Monserrate, 8:30, Cantor
+Particia, 12:00, The Dish
+Natalya, 8:00, Ricker
+Marisela, 10:30, Mausoleum
+Elena, 7:00, Bing Nursery
+Latrisha, 10:00, Mausoleum
+Juliette, 8:00, Green Library
+Lona, 10:30, Lathrop
+Refugia, 10:30, Roble Arts Gym
+Ulrike, 7:00, TAP
+Jannie, 7:30, Munger
+Refugia, 8:00, MemAud
+Ina, 9:00, Ricker
+Lou, 10:30, Lathrop
+Kaci, 10:00, Wilbur
+Leanna, 9:30, Munger
+Jeri, 9:00, MemAud
+Angelyn, 8:00, Cantor
+Lacy, 12:00, MemChu
+Glennie, 7:00, Munger
+Pia, 9:00, CoHo
+Lacy, 7:30, Munger
+Blondell, 7:30, Tressider
+Roseanna, 8:00, Wilbur
+Darlena, 12:30, Gates
+Darlena, 10:00, Law School Terrace
+Carman, 10:30, Law School Terrace
+Lacy, 10:30, Roble Arts Gym
+Jeri, 9:30, Roble Arts Gym
+Malissa, 9:00, Ricker
+Shizuko, 10:00, MemAud
+Blondell, 7:00, CoHo
+Buddy, 7:00, Law School Terrace
+Misty, 12:30, The Dish
+Chuck, 12:00, MemAud
+Virgil, 11:30, Munger
+Russell, 7:00, Law School Terrace
+Mariko, 11:00, Main Quad
+Virgil, 12:00, Lathrop
+Eboni, 10:30, Bing Nursery
+Particia, 8:00, Lake Lag
+Chris, 7:30, Cantor
+Johnny, 9:30, Ricker
+Garrett, 12:30, Bing Nursery
+Selene, 8:00, Main Quad
+Mariko, 7:30, Lathrop
+Parth, 12:00, The Dish
+Noelle, 11:00, Lathrop
+Carman, 11:30, Green Library
+Birgit, 9:30, The Dish
+Lean, 8:30, Ricker
+Caryn, 9:00, Gates
+Roseanna, 10:00, The Dish
+Kai, 9:30, Lake Lag
+Jeri, 7:30, Lake Lag
+Darlena, 7:30, MemChu
+Deidre, 12:30, Gates
+Babette, 9:30, Ricker
+Lacy, 11:30, Hoover Tower
+Parth, 9:30, Munger
+Neva, 8:00, Green Library
+Chris, 12:00, Ricker
+Bobbye, 9:30, Green Library
+Sheilah, 8:00, Lathrop
+Jesusa, 11:30, Cantor
+Eboni, 9:00, Law School Terrace
+Virgil, 10:00, CoHo
+Will, 8:30, Mausoleum
+Sylvia, 9:30, Hoover Tower
+Lona, 12:30, Law School Terrace
+Lean, 9:30, Mausoleum
+Kai, 10:00, MemChu
+Reita, 12:30, Tressider
+Particia, 8:30, Ricker
+Cecily, 10:30, MemChu
+Sebrina, 9:30, CoHo
+Stacee, 10:30, Bing Nursery
+Elena, 7:30, CoHo
+Blake, 11:00, Main Quad
+Will, 10:00, Lathrop
+Shizuko, 7:30, Gates
+Caryn, 11:30, CoHo
+Glennie, 8:00, Wilbur
+Madelyn, 10:30, The Dish
+Tambra, 9:00, Lathrop
+Tabitha, 12:00, Bing Nursery
+Jayson, 10:00, Ricker
+Meggan, 7:30, CoHo
+Will, 7:00, Wilbur
+Henry, 9:00, Munger
+Stacee, 7:30, Hoover Tower
+Barabara, 9:00, Green Library
+Virgil, 8:30, MemAud
+Roseanna, 12:30, Roble Arts Gym
+Latrisha, 11:00, Lathrop
+Kai, 11:30, Ricker
+Buddy, 7:30, Wilbur
+Forest, 10:00, Green Library
+Bernardina, 7:00, Roble Arts Gym
+Kathe, 8:00, Gates
+Lashay, 10:00, Green Library
+Nakia, 7:30, Bing Nursery
+Kara, 9:00, Law School Terrace
+Mariko, 9:00, Bing Nursery
+Lona, 7:00, Cantor
+Esmeralda, 9:30, The Dish
+Etta, 12:30, CoHo
+Kaci, 12:30, Wilbur
+Trinity, 11:00, Ricker
+Deidre, 7:30, Mausoleum
+Carman, 9:30, MemAud
+Caryn, 8:00, Law School Terrace
+Virgil, 9:30, Roble Arts Gym
+Kenyatta, 10:00, Tressider
+Deidre, 10:00, MemAud
+Buford, 7:00, Hoover Tower
+Reita, 11:00, MemChu
+Babette, 8:30, Tressider
+Nathanial, 12:30, Hoover Tower
+Lashay, 9:00, Lake Lag
+Sylvia, 9:00, CoHo
+Monserrate, 7:00, CoHo
+Lean, 10:30, Wilbur
+Cecily, 12:00, Bing Nursery
+Neva, 12:30, Ricker
+Kathe, 7:00, MemChu
+Wade, 9:00, Hoover Tower
+Eboni, 8:30, Wilbur
+Bobbye, 9:00, Green Library
+Salvador, 9:00, Gates
+Sheilah, 12:30, Tressider
+Lana, 12:00, Wilbur
+Tori, 7:00, Law School Terrace
+Meggan, 12:00, Wilbur
+Darlena, 11:00, Mausoleum
+Angelyn, 10:00, MemAud
+Lashay, 7:30, MemAud
+Alexis, 11:00, Gates
+Jeri, 10:30, Lake Lag
+Kenyatta, 8:30, The Dish
+Particia, 7:30, Bing Nursery
+Reita, 11:30, MemChu
+Blake, 7:00, Hoover Tower
+Hayley, 9:30, Hoover Tower
+Tambra, 10:00, Gates
+Blondell, 10:00, Hoover Tower
+Sebrina, 11:30, Gates
+Virgil, 7:30, MemAud
+Delmy, 9:00, MemAud
+Chuck, 9:00, Lathrop
+Deidre, 8:00, Lake Lag
+Latoya, 7:00, Main Quad
+Lean, 12:30, Hoover Tower
+Natalya, 9:00, TAP
+Kenyatta, 10:30, CoHo
+Particia, 11:00, Green Library
+Cecily, 8:30, TAP
+Trinity, 7:30, TAP
+Eddy, 10:00, MemChu
+Jolie, 11:30, Green Library
+Lana, 12:30, Tressider
+Kara, 9:30, Tressider
+Birgit, 7:30, CoHo
+Carman, 12:00, Lake Lag
+Pia, 12:00, Hoover Tower
+Nathanial, 8:00, Lake Lag
+Jesusa, 10:30, Tressider
+Salvador, 10:30, MemChu
+Latrisha, 9:30, Bing Nursery
+Reita, 12:00, Bing Nursery
+Carman, 10:00, Mausoleum
+Ina, 12:30, Main Quad
+Stacee, 8:30, Hoover Tower
+Yuonne, 10:00, Tressider
+Trinity, 10:30, Main Quad
+Devora, 9:00, TAP
+Bobbye, 8:00, Law School Terrace
+Kaci, 7:30, CoHo
+Lorriane, 12:00, Munger
+Serina, 11:00, The Dish
+Leonida, 10:00, Ricker
+Blondell, 12:00, Bing Nursery
+Barabara, 7:30, Mausoleum
+Corinne, 10:00, Wilbur
+Marisela, 8:00, TAP
+Malcom, 9:30, MemAud
+Trinity, 7:00, Green Library
+Zella, 12:00, TAP
+Rosalind, 9:30, Tressider
+Etta, 8:00, Lathrop
+Zella, 9:30, Main Quad
+Cecily, 11:30, Hoover Tower
+Parth, 8:30, MemChu
+Birgit, 8:30, The Dish
+Latrisha, 11:30, Lake Lag
+Malcom, 8:00, TAP
+Nakia, 8:00, MemAud
+Rosalind, 8:00, TAP
+Kylie, 10:30, Roble Arts Gym
+Jolie, 10:30, Gates
+Peter, 11:30, MemAud
+Cecily, 7:30, Main Quad
+Chris, 12:30, MemChu
+Kenyatta, 8:00, Mausoleum
+Elena, 11:00, Green Library
+Henry, 10:30, Mausoleum
+Nathanial, 7:30, Roble Arts Gym
+Ina, 9:30, Cantor
+Bradley, 9:00, CoHo
+Latrisha, 8:00, Tressider
+Elnora, 11:30, Lathrop
+Mariko, 10:30, MemAud
+Mariko, 12:30, Main Quad
+Neva, 10:30, Munger
+Eddy, 8:00, Lathrop
+Peter, 12:00, Law School Terrace
+Natalya, 10:30, CoHo
+Abby, 10:00, Munger
+Ulrike, 12:30, CoHo
+Blake, 11:30, MemChu
+Selene, 9:00, Mausoleum
+Elena, 8:00, The Dish
+Marisela, 10:00, Roble Arts Gym
+Parth, 10:30, Hoover Tower
+Tambra, 8:30, Ricker
+Madelyn, 11:00, Wilbur
+Babette, 7:30, Wilbur
+Elena, 11:30, Munger
+Will, 10:30, Cantor
+Lia, 9:30, Wilbur
+Sebrina, 12:00, Lathrop
+Stacee, 7:00, Main Quad
+Salvador, 11:30, Cantor
+Delmy, 8:00, Main Quad
+Roseanna, 12:00, MemAud
+Parth, 8:00, Lathrop
+Rosalind, 12:00, Gates
+Zella, 11:30, The Dish
+Tabitha, 8:30, Tressider
+Forest, 8:30, Mausoleum
+Sylvia, 11:00, Cantor
+Lia, 10:00, Roble Arts Gym
+Jannie, 9:00, MemChu
+Sheilah, 10:00, Roble Arts Gym
+Jeri, 12:00, Main Quad
+Jannie, 11:30, Munger
+Kathe, 9:30, Green Library
+Devora, 12:30, The Dish
+Bernardina, 7:30, Law School Terrace
+Lona, 11:00, Green Library
+Abby, 7:30, MemAud
+Parth, 7:30, Tressider
+Reita, 8:00, Green Library
+Blondell, 8:30, MemChu
+Meggan, 8:00, Cantor
+Delmy, 10:30, Gates
+Lorriane, 8:00, MemAud
+Caryn, 9:30, Law School Terrace
+Jolyn, 12:00, The Dish
+Lorriane, 11:30, TAP
+Babette, 12:30, TAP
+Stacee, 11:00, Lake Lag
+Chris, 8:30, Cantor
+Lona, 12:00, Main Quad
+Sheilah, 7:30, Tressider
+Russell, 9:30, Main Quad
+Abby, 11:00, Gates
+Kylie, 8:00, Law School Terrace
+Tambra, 12:30, Hoover Tower
+Babette, 12:00, Green Library
+Ina, 11:30, Roble Arts Gym
+Nakia, 7:00, Law School Terrace
+Mauricio, 10:30, Gates
+Lorriane, 7:30, Ricker
+Jeri, 8:00, Lathrop
+Kaci, 12:00, Green Library
+Jesusa, 10:00, Green Library
+Juliette, 9:30, Main Quad
+Delmy, 8:30, Wilbur
+Elnora, 8:30, Munger
+Tambra, 9:30, Green Library
+Leanna, 12:30, MemChu
+Jolie, 7:00, Lathrop
+Tabitha, 9:30, Wilbur
+Jolyn, 12:30, MemAud
+Will, 12:00, MemChu
+Yuonne, 11:00, Roble Arts Gym
+Angelyn, 9:30, Main Quad
+Jayson, 7:30, Ricker
+Serina, 10:00, MemAud
+Tabitha, 8:00, Roble Arts Gym
+Russell, 10:30, Lathrop
+Juliette, 12:00, TAP
+Lean, 8:00, Munger
+Cecily, 11:00, Ricker
+Buford, 9:00, Munger
+Kathe, 7:30, Roble Arts Gym
+Noelle, 11:30, Green Library
+Blondell, 11:30, Main Quad
+Leonida, 12:00, Gates
+Juliette, 7:30, Green Library
+Esmeralda, 12:00, Wilbur
+Ulrike, 9:00, Gates
+Marisela, 9:00, Gates
+Etta, 11:30, Tressider
+Misty, 10:30, Hoover Tower
+Lia, 9:00, Main Quad
+Lean, 9:00, Gates
+Shizuko, 8:00, Tressider
+Jeri, 10:00, Green Library
+Bradley, 11:00, Munger
+Lana, 8:00, MemAud
+Sylvia, 10:30, Tressider
+Leanna, 10:30, Roble Arts Gym
+Serina, 10:30, Green Library
+Neva, 12:00, Cantor
+Leanna, 7:00, Wilbur
+Jannie, 9:30, TAP
+Monserrate, 9:30, Ricker
+Bobbye, 10:30, MemChu
+Jolie, 11:00, Green Library
+Nakia, 12:00, MemChu
+Alexis, 10:00, Lake Lag
+Mariko, 7:00, Cantor
+Latoya, 9:00, Law School Terrace
+Corinne, 7:30, MemAud
+Henry, 8:00, Green Library
+Leanna, 8:30, MemAud
+Alexis, 9:30, Lake Lag
+Caryn, 7:30, Lake Lag
+Kylie, 11:30, Main Quad
+Kai, 12:00, Hoover Tower
+Madelyn, 7:00, Green Library
+Ulrike, 8:00, CoHo
+Elnora, 11:00, Munger
+Bradley, 9:30, Tressider
+Tambra, 8:00, Ricker
+Leonida, 9:30, Cantor
+Natalya, 11:00, Roble Arts Gym
+Lia, 12:00, Bing Nursery
+Buddy, 8:00, Tressider
+Mehran, 11:30, Cantor
+Blake, 8:00, Gates
+Kara, 10:00, Hoover Tower
+Refugia, 7:00, Tressider
+Jannie, 10:30, Ricker
+Lean, 7:30, Wilbur
+Kara, 11:00, Wilbur
+Leanna, 10:00, Tressider
+Mauricio, 11:00, TAP
+Shizuko, 10:30, TAP
+Eddy, 7:00, Green Library
+Lou, 11:30, The Dish
+Chuck, 9:30, Ricker
+Reita, 7:30, Bing Nursery
+Kylie, 7:30, Cantor
+Monserrate, 9:00, Gates
+Blondell, 8:00, Mausoleum
+Roseanna, 9:30, Gates
+Chuck, 7:00, Mausoleum
+Lona, 8:30, Roble Arts Gym
+Mehran, 12:30, Law School Terrace
+Monserrate, 10:00, TAP
+Chuck, 10:30, Bing Nursery
+Lona, 9:30, Bing Nursery
+Reita, 9:30, CoHo
+Meggan, 9:30, MemAud
+Zella, 9:00, Green Library
+Lia, 8:00, Lake Lag
+Barabara, 12:00, Wilbur
+Lilia, 12:00, Roble Arts Gym
+Angelyn, 11:30, Roble Arts Gym
+Sebrina, 7:00, MemChu
+Bradley, 7:00, Munger
+Leonida, 8:30, Ricker
+Bernardina, 10:00, MemAud
+Brahm, 12:30, Tressider
+Lacy, 7:00, CoHo
+Kylie, 7:00, Gates
+Carry, 10:30, The Dish
+Juliette, 8:30, Munger
+Rosalind, 7:30, The Dish
+Elena, 9:30, Main Quad
+Eboni, 10:00, Green Library
+Jolie, 9:00, TAP
+Yuonne, 9:00, Tressider
+Lean, 7:00, Law School Terrace
+Peter, 10:00, Tressider
+Chris, 9:00, Lathrop
+Shizuko, 9:30, Main Quad

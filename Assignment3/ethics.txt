@@ -1,0 +1,6 @@
+1. Forest fire
+    a. In this case, knowing about the context allows the programmers aware of the limitations and potential risks of their algorithm. The programmers have the responsibility to provide objective, credible evaluations and explain which idealizations have been made to the customers. This allows the user to evaluate whether the idealizations are appropriate for the stated purpose or whether they are manipulative. 
+    b. We can present additional information with the image to provide the users a broader perspective of the situation they are dealing with. For example, information about household density, and animal inhabitant location should be taken into account. The programmers can also work with the indigenous and provide statistical information about forest fires in the past. This allows firefighters to provide better containment and rescue strategies.
+2. Ghost
+    a. photo retouching (art purpose), falsifying evidence (illegal purpose)
+    b. Falsifying evidence involves manipulation. For example, fabricating the CCTV footage to illegally breaching a building without being detected.
